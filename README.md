@@ -1,10 +1,10 @@
 # 🌾 Rapport Power BI : L’Internet des Objets dans l’Agriculture
 
-## 📘 Description générale
+##  Description générale
 Ce projet Power BI s’inscrit dans le cadre du module **Technique de veille** et illustre l’application de l’**Internet des Objets (IoT)** dans le domaine agricole.  
 Il met en évidence comment l’IoT transforme l’agriculture traditionnelle en **agriculture intelligente (Smart Farming)**, en favorisant la durabilité, la productivité et la modernisation du secteur.
 
----
+
 
 ##  Contenu du rapport
 Le rapport propose une **analyse complète et interactive** autour des points suivants :
@@ -21,10 +21,10 @@ Présentation des principaux outils et technologies IoT utilisés :
 
 ###  2. Études de cas
 Exemples d’applications concrètes de l’IoT :
-- Suivi du bétail et gestion de la santé animale 🐄  
-- Automatisation des serres 🌱  
-- Agriculture de précision et gestion des cultures 📈  
-- Surveillance du climat et irrigation intelligente 💧  
+- Suivi du bétail et gestion de la santé animale 
+- Automatisation des serres 
+- Agriculture de précision et gestion des cultures  
+- Surveillance du climat et irrigation intelligente  
 
 
 
